@@ -2,12 +2,12 @@
 
 <p align="center">
   <b>Machine Learning Researcher — AI for Drug Discovery</b><br>
-  M.S.E. in Computer Science &amp; Artificial Intelligence · Dongguk University (PRISM Lab)
+  Master’s Researcher at PRISM Lab, Dongguk University · M.E. in Computer Science &amp; Artificial Intelligence
 </p>
 
 <p align="center">
   <a href="https://myungjin00.github.io">🌐 Website</a> ·
-  <a href="https://myungjin00.github.io/assets/cv.pdf">📄 CV</a> ·
+  <a href="https://myungjin00.github.io/assets/MyungjinLee_CV.pdf">📄 CV</a> ·
   <a href="https://www.linkedin.com/in/myungjin00">💼 LinkedIn</a> ·
   <a href="mailto:leemj637@gmail.com">✉️ Email</a>
 </p>
@@ -16,12 +16,12 @@
 
 I build **interpretable, graph-based models** for molecular property prediction, and I'm currently **looking for opportunities** to apply machine learning to drug discovery and molecular data.
 
-### 🔬 Research
+### 💻 Research
 
 - **Graph-based molecular representation learning** & **ADMET prediction** — models that highlight *which molecular substructures* drive each prediction
 - **Drug repurposing** and transcriptomic **target discovery** (aging-related MASLD)
 - Interpretable / explainable AI (XAI) for cheminformatics
-- Long term: connecting molecular representation → drug–target interaction → drug-response prediction, toward **generative molecular design**
+- Next: extending molecular representation learning to **drug–target interaction** and **drug-response prediction**
 
 ### 📌 Selected Work
 
@@ -39,6 +39,5 @@ I build **interpretable, graph-based models** for molecular property prediction,
 ### 🔗 More
 
 - 🌐 **Website & full portfolio:** https://myungjin00.github.io
-- 📄 **CV (PDF):** https://myungjin00.github.io/assets/cv.pdf
+- 📄 **CV (PDF):** https://myungjin00.github.io/assets/MyungjinLee_CV.pdf
 - 💼 **LinkedIn:** https://www.linkedin.com/in/myungjin00
-<!-- 📑 Research portfolio: https://myungjin00.github.io/assets/portfolio.pdf  (uncomment once the file is uploaded) -->
