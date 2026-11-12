@@ -1,43 +1,56 @@
-<h1 align="center">Hi, I'm Myungjin Lee 👋</h1>
+<h1 align="center">Myungjin Lee</h1>
 
 <p align="center">
-  <b>Machine Learning Researcher — AI for Drug Discovery</b><br>
-  Master’s Researcher at PRISM Lab, Dongguk University · M.E. in Computer Science &amp; Artificial Intelligence
+  <b>Machine learning for drug discovery</b><br>
+  Post-Master Researcher, PRISM Lab, Dongguk University · M.E. in Computer Science &amp; Artificial Intelligence
 </p>
 
 <p align="center">
-  <a href="https://myungjin00.github.io">🌐 Website</a> ·
-  <a href="https://myungjin00.github.io/assets/MyungjinLee_CV.pdf">📄 CV</a> ·
-  <a href="https://www.linkedin.com/in/myungjin00">💼 LinkedIn</a> ·
-  <a href="mailto:leemj637@gmail.com">✉️ Email</a>
+  <a href="https://myungjin00.github.io">Website</a> ·
+  <a href="https://myungjin00.github.io/assets/MyungjinLee_CV.pdf">CV</a> ·
+  <a href="https://www.linkedin.com/in/myungjin00">LinkedIn</a> ·
+  <a href="mailto:leemj637@gmail.com">Email</a>
 </p>
 
 ---
 
-I build **interpretable, graph-based models** for molecular property prediction, and I'm currently **looking for opportunities** to apply machine learning to drug discovery and molecular data.
+I build interpretable, graph-based models for **molecular property prediction**, and I work on
+transcriptomes of the aging liver. A central theme is interpretability: instead of a black-box
+predictor, I build attention-based models whose weights point at the substructures behind each
+answer.
 
-### 💻 Research
+I am looking for a research position where that work continues.
 
-- **Graph-based molecular representation learning** & **ADMET prediction** — models that highlight *which molecular substructures* drive each prediction
-- **Drug repurposing** and transcriptomic **target discovery** (aging-related MASLD)
-- Interpretable / explainable AI (XAI) for cheminformatics
-- Next: extending molecular representation learning to **drug–target interaction** and **drug-response prediction**
+### Research
 
-### 📌 Selected Work
+| | |
+|---|---|
+| **Molecular representation learning** | dual-view and multi-view molecular graphs, self-supervised pretraining, structure-constrained attention |
+| **Molecular property prediction** | MoleculeNet property and toxicity endpoints, MoleculeACE activity cliffs |
+| **Drug repurposing** | biomedical knowledge graphs, benchmarking published models under one protocol |
+| **Omics** | cellular senescence, aging-related MASLD, public liver transcriptomes |
 
-| Project | Description | |
+Next: carrying molecular representation learning into drug–target interaction and drug-response
+prediction, so that structure connects to what a compound does in a cell.
+
+### Selected work
+
+| Project | | |
 |---|---|---|
-| **SJoINT** | Dual-view junction-tree × atom-graph cross-attention for interpretable ADMET *(first author, in preparation)* | [repo](https://github.com/sslim-aidrug/SJoINT) |
-| **MAGNET** | Multi-view molecular graph learning for interpretable ADMET *(co-author, under review)* | [repo](https://github.com/sslim-aidrug/MAGNET) |
-| **Samsung AI Challenge** | ML force fields for semiconductor-material simulation — **Top 10%** | [repo](https://github.com/myungjin00/2024_Samsung-MLFF-Challenge) |
-| **DREAM Challenge** | GNN for olfactory-mixture similarity prediction | [repo](https://github.com/myungjin00/2024-DREAM-challenge) |
+| **SJoINT** | A molecule read twice — as atoms and as the substructures they form — with structure-constrained cross-attention between the two. *First author · manuscript under review · KCC 2026* | [repo](https://github.com/sslim-aidrug/SJoINT) |
+| **MAGNET** | Three fragmentations of one molecule, linked into a single meta-graph so the views can be compared instead of chosen between. *Second author · under review* | [repo](https://github.com/sslim-aidrug/MAGNET) |
+| **Drug repurposing benchmark** | Five knowledge-graph models rebuilt in one environment on a curated PrimeKG, plus thirteen property-prediction models on MoleculeNet. Registered on the national bio-data platform. | [KBDI](https://kbdi.re.kr/main/mainVw.do) |
+| **Aging-related MASLD** | Public liver transcriptomes curated into one database, and what they say about aging. | [about](https://myungjin00.github.io/projects/masld/) |
+| **Samsung AI Challenge** | ML force fields for semiconductor-material simulation — top 10%. | [repo](https://github.com/myungjin00/2024_Samsung-MLFF-Challenge) |
+| **DREAM Challenge** | A GNN for olfactory-mixture similarity. | [repo](https://github.com/myungjin00/2024-DREAM-challenge) |
 
-### 🛠️ Tech
+### Tools
 
-`Python` · `PyTorch` · `PyTorch Geometric` · `Hugging Face` · `scikit-learn` · `RDKit` · `DeepChem` · `pandas` / `NumPy` · `Scanpy` · `Docker`
+`Python` · `PyTorch` · `PyTorch Geometric` · `RDKit` · `DeepChem` · `Hugging Face` ·
+`scikit-learn` · `pandas` / `NumPy` · `Scanpy` · `PyDESeq2` · `Docker`
 
-### 🔗 More
+---
 
-- 🌐 **Website & full portfolio:** https://myungjin00.github.io
-- 📄 **CV (PDF):** https://myungjin00.github.io/assets/MyungjinLee_CV.pdf
-- 💼 **LinkedIn:** https://www.linkedin.com/in/myungjin00
+<p align="center">
+  <a href="https://myungjin00.github.io">myungjin00.github.io</a>
+</p>
