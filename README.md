@@ -37,7 +37,7 @@ prediction, so that structure connects to what a compound does in a cell.
 
 | Project | | |
 |---|---|---|
-| **SJoINT** | A molecule read twice — as atoms and as the substructures they form — with structure-constrained cross-attention between the two. *First author · manuscript under review · KCC 2026* | [repo](https://github.com/sslim-aidrug/SJoINT) |
+| **SJoINT** | A molecule read twice — as atoms and as the substructures they form — with structure-constrained cross-attention between the two. *First author · journal manuscript under review; conference paper at KCC 2026* | [repo](https://github.com/sslim-aidrug/SJoINT) |
 | **MAGNET** | Three fragmentations of one molecule, linked into a single meta-graph so the views can be compared instead of chosen between. *Second author · under review* | [repo](https://github.com/sslim-aidrug/MAGNET) |
 | **Drug repurposing benchmark** | Five knowledge-graph models rebuilt in one environment on a curated PrimeKG, plus thirteen property-prediction models on MoleculeNet. Registered on the national bio-data platform. | [KBDI](https://kbdi.re.kr/main/mainVw.do) |
 | **Aging-related MASLD** | Public liver transcriptomes curated into one database, and what they say about aging. | [about](https://myungjin00.github.io/projects/masld/) |
